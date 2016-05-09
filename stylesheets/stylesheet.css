@@ -329,12 +329,12 @@ border-radius: 10px 10px;
 
 .formSubscribe, .formRequestBetaAccess {
     float: left;
-    width: 50%;
+    max-width: 50%;
     margin: auto;
 }
 
 input[type=text], input[type=email],input[type=number], input[type=tel], select {
-    width: 100%;
+    max-width: 100%;
     margin: auto;
     padding: 12px 20px;
     margin: 8px 0;
@@ -345,7 +345,7 @@ input[type=text], input[type=email],input[type=number], input[type=tel], select 
 }
 
 input[type=submit] {
-    width: 100%;
+    max-width: 100%;
     background-color: #4CAF50;
     color: white;
     padding: 14px 20px;
