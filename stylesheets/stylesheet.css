@@ -274,7 +274,7 @@ border-radius: 10px;
 
 /*#3 Partners-content */
 .partners-content {
-  clear:left;
+  clear: left;
   text-align: center;
 padding: 10px;
 border: 10px solid #F8F8F8;
@@ -318,7 +318,7 @@ img, form {
 /* #4 subscription-content */
 
 .subscription-content {
-    Clear:left;
+    clear: left;
     overflow: auto;
 padding: 10px 10px;
 border: 10px solid #F8F8F8;
