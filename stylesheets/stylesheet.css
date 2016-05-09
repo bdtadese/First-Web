@@ -333,7 +333,7 @@ border-radius: 10px 10px;
 }
 
 input[type=text], input[type=email],input[type=number], input[type=tel], select {
-    max-width: 100%;
+    width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
@@ -343,7 +343,7 @@ input[type=text], input[type=email],input[type=number], input[type=tel], select 
 }
 
 input[type=submit] {
-    max-width: 100%;
+    width: 100%;
     background-color: #4CAF50;
     color: white;
     padding: 14px 20px;
