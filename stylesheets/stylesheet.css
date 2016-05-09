@@ -332,3 +332,7 @@ line-height: 1.5;
 .notbold{
     font-weight:normal
 }
+
+.features-content .partners-content .subscriptions-content {
+float: clear;
+}
