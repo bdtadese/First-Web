@@ -280,6 +280,7 @@ img.partners-content {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  float: left;
 }
 
 .partnersfig {  
@@ -289,7 +290,7 @@ img.partners-content {
   background-color: white;
   font: 400 16px/1.4'Source Code Pro';
   font-variant: small-caps;
-  padding: 20px;
+  padding: 10px;
   border: 1px;
   border-radius: 5px;
   
