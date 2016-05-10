@@ -327,7 +327,7 @@ border-radius: 10px;
 
 .subscription {
   height: auto;
-  max-width: 100%;
+
   overflow: auto;
   margin: auto;
   background-color: white;
