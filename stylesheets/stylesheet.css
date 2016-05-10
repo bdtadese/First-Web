@@ -331,6 +331,7 @@ border-radius: 10px 10px;
     float: left;
     width: 50%;
     margin: auto;
+    text-align: center;
 }
 
 input[type=text], input[type=email],input[type=number], input[type=tel], select {
