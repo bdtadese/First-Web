@@ -330,6 +330,7 @@ border-radius: 10px;
   height: auto;
   max-width: 100%;
   overflow: auto;
+  margin: auto;
   background-color: white;
   font: 400 16px/1.4'Source Code Pro';
   font-variant: small-caps;
@@ -339,7 +340,7 @@ border-radius: 10px;
 
 .floating-form {
     float: left;
-    margin: 10px;
+
 }
 
 form {
